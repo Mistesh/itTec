@@ -44,3 +44,7 @@ ___
 * [Сценарий](https://github.com/Mistesh/itTec/blob/main/src/CiscoFile.pka)
 
 ___
+
+## Экзаменационный билет № 4
+
+Ответ на экзаменационный билет доступен по ссылке: [билет №18](https://github.com/stankin/inet-2022/wiki/exam18)
