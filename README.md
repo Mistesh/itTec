@@ -34,4 +34,12 @@ ___
 
 ___
 
+## Лабораторная работа №3
 
+Работа в Cisco Packet Tracer
+
+* [Отчет[(https://github.com/Mistesh/itTec/blob/main/src/report.pdf)
+
+* [Сценарий](https://github.com/Mistesh/itTec/blob/main/src/CiscoFile.pka)
+
+___
