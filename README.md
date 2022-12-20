@@ -29,9 +29,9 @@ ___
   * Веб-сервис для хостинга IT-проектов и их совместной разработки GitHub.
 Работа над проектом ведется в команде.
 
-Репозиторий проекта будет доступен по ссылке: [проект](https://github.com/Vovaloda/internet-technology-labs/blob/main)
+Репозиторий проекта будет доступен по ссылке: [репозиторий](https://github.com/Tsyreniao/IT_MulticoloredPictures)
 
-Веб-страница с описанием проекта будет доступна по ссылке: [описание](https://github.com/Vovaloda/internet-technology-labs/blob/main)
+Веб-страница с описанием проекта будет доступна по ссылке: [Landing Page](https://tsyreniao.github.io/IT_MulticoloredPictures/)
 
 ___
 
