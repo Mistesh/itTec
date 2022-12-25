@@ -36,6 +36,10 @@ ___
 
 Веб-страница с описанием проекта доступна по ссылке: [Landing Page](https://tsyreniao.github.io/IT_MulticoloredPictures/)
 
+Конкретно мной разрабатывался дизайн проекта, а также был составлен макет сайта при помощи ресурса Figma. В соответствии с сайтом происходила верстка итогового продукта при помощи соответствующих средств разработки.
+
+Ссылка на макет в Figma: [Figma](https://www.figma.com/proto/blFZxEeTYMmsLZN8x1RCC6/Untitled?node-id=4%3A100&scaling=min-zoom&page-id=0%3A1)
+
 ___
 
 ## Лабораторная работа №3
